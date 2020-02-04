@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43961583957",
+    "firebase_url": "https://cellular-bd963.firebaseio.com",
+    "project_id": "cellular-bd963",
+    "storage_bucket": "cellular-bd963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43961583957:android:215713c916693e234447dc",
+        "android_client_info": {
+          "package_name": "com.android.cellular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43961583957-78nqesifjnl8f2jj456gdtj1vhv5pg51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.cellular",
+            "certificate_hash": "bb533297f0ac64a0b22de6e7349e1cc082aae7f1"
+          }
+        },
+        {
+          "client_id": "43961583957-clbr5tan1evfhoin807kvlkr5ihni9mk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1iavc_KZiAq0-4f7AIZSNBNF09-Iht-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43961583957-clbr5tan1evfhoin807kvlkr5ihni9mk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
